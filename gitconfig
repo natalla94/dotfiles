@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nabil.atalla0809@gmail.com
+	name = atalla nabil
